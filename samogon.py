@@ -31,7 +31,7 @@ views = Views()
 monitor = Monitor(errors)
 manager = Manager()
 os.system('clear')
-views.render_page(menu=menu)
+views.render_page(menu, monitor, errors)
 
 choice = ''
 while True: 
@@ -44,4 +44,4 @@ while True:
     errors.clear_errors()
     manager.serve(choice)
     monitor.get_temperature()
-    views.render_page(menu=menu)            
+    views.render_page(menu, monitor, errors)            
