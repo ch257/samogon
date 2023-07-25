@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="1">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="924" startPos="891" endPos="891" selMode="0" offset="0" wrapCount="1" lang="&#x041E;&#x0431;&#x044B;&#x0447;&#x043D;&#x044B;&#x0439; &#x0422;&#x0435;&#x043A;&#x0441;&#x0442;" encoding="-1" userReadOnly="no" filename="C:\Churilin\ToDoList.txt" backupFilePath="" originalFileLastModifTimestamp="335297903" originalFileLastModifTimestampHigh="31044534" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="-838614368" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1248" startPos="0" endPos="0" selMode="0" offset="0" wrapCount="1" lang="Python" encoding="-1" userReadOnly="no" filename="C:\Churilin\terra_nova\samogon\projects\samogon\server.py" backupFilePath="" originalFileLastModifTimestamp="565165874" originalFileLastModifTimestampHigh="31043348" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="3145780" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="1">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1008" startPos="0" endPos="0" selMode="0" offset="0" wrapCount="1" lang="Python" encoding="-1" userReadOnly="no" filename="C:\Churilin\terra_nova\samogon\projects\samogon\test\scripts\client.py" backupFilePath="" originalFileLastModifTimestamp="1508484544" originalFileLastModifTimestampHigh="31043520" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1667590243" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1120" startPos="0" endPos="0" selMode="0" offset="0" wrapCount="1" lang="Python" encoding="-1" userReadOnly="no" filename="C:\Churilin\terra_nova\samogon\projects\samogon\test\scripts\server.py" backupFilePath="" originalFileLastModifTimestamp="-255934880" originalFileLastModifTimestampHigh="31043519" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </subView>
+    </Session>
+</NotepadPlus>
