@@ -30,7 +30,6 @@ async def main():
     # print(thermometers.get_thermometers())
     print(thermometers.get_themperature("Куб"))
     print(errors.get_errors())
-    print(errors.get_errors())
     
 asyncio.run(main())
 
